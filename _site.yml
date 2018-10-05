@@ -6,7 +6,6 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Analyses"
-      icon: fa-gear
       menu:
         - text: "R"
         - text: "Predicting Breast Cancer"
