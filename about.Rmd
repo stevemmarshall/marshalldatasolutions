@@ -1,0 +1,5 @@
+---
+title: "About Me"
+---
+
+My name is Steve Marshall, I live in Boston. I've worked in the life science industry for the past 20+ years. Currently, I'm an independent consultant providing a broad range of skills in IT, engineering, data sciences and bioinformatics for various biotech clients.

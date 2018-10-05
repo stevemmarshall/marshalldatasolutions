@@ -1,8 +1,12 @@
 name: "marshalldatasolutions"
+output_dir: "."
 navbar:
   title: "Marshall Data Solutions"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "About Me"
       href: about.html
+output:
+  html_document:
+    theme: flatly
